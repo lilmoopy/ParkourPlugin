@@ -1,0 +1,3 @@
+# Parkour Plugin Configuration
+enable_parkour: true
+broadcast_on_completion: true

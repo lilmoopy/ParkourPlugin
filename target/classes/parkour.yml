@@ -1,0 +1,10 @@
+# Parkour Data
+parkours:
+  parkour1:
+    name: "Parkour 1"
+    creator: "Player1"
+    difficulty: "Easy"
+    checkpoints:
+      - { x: 100, y: 64, z: 200 }
+      - { x: 150, y: 64, z: 250 }
+    # Add more parkours as needed

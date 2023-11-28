@@ -1,0 +1,6 @@
+# Player Data
+players:
+  player1:
+    completed_parkours:
+      - { parkour: "Parkour 1", time: "00:05:30" }
+  # Add more players as needed

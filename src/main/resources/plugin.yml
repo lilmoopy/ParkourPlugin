@@ -1,0 +1,10 @@
+name: ParkourPlugin
+version: 1.0
+main: com.srgeppi.parkourplugin.ParkourPlugin
+author: srgeppi
+description: A Minecraft parkour plugin.
+
+commands:
+  parkour:
+    description: Base command for parkour management.
+    usage: /<command> [create|delete|setcheckpoint|info|tp]

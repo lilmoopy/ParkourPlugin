@@ -1,0 +1,4 @@
+# Plugin Messages
+parkour_start_message: "&eYou have started the parkour: %parkour%"
+parkour_checkpoint_message: "&aCheckpoint #%checkpoint% reached!"
+parkour_completion_message: "&6Congratulations! You completed the parkour: %parkour% in %time%!"
